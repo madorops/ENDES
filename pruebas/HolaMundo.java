@@ -4,7 +4,7 @@ public class HolaMundo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hola GiT!!");
+		System.out.println("Hola GiT!!"); // Muestra por consola el texto
 	}
 
 }
